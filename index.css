@@ -1,0 +1,26 @@
+        body{
+            background-color: rgb(102, 49, 102);
+            text-align: center;
+        }
+        h2{
+            background-color: aqua;
+            color: brown;
+            padding: 10px;
+            border-radius: 20px;
+            box-shadow:0 0 10px rgb(133, 62, 62) ;
+        }
+        img{
+            width: 350px;
+            height: 200px;
+            border-radius: 30px;
+            padding: 5px;
+            box-shadow: 0 0 10px goldenrod;
+        }
+        span{
+            background-color:rgb(71, 71, 71) ;
+            color: gold;
+        }
+        header{
+            color: rgb(138, 174, 205);
+            transition: 3ms;
+        }
